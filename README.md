@@ -82,19 +82,6 @@ The result is accumulated in:
 result;
 ```
 
-# ✅ Edge Cases Handled
-
-The implementation correctly handles:
-
-- Empty arrays
-- Single bar arrays
-- Increasing heights
-- Decreasing heights
-- Flat surfaces
-- Large elevation differences
-
----
-
 # How to Run
 
 1. Install TypeScript
